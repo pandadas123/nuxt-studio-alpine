@@ -1,0 +1,1 @@
+import{l as t,b as a,c as o,a5 as s}from"./CW4l2274.js";const r={},c={class:"preview-layout"};function n(e,d){return a(),o("div",c,[s(e.$slots,"default",{},void 0,!0)])}const l=t(r,[["render",n],["__scopeId","data-v-94a4be89"]]);export{l as default};

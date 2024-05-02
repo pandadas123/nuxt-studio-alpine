@@ -1,0 +1,1 @@
+import{l as o,b as r,c as t,a5 as a}from"./CW4l2274.js";const c={};function n(e,s){return r(),t("ol",null,[a(e.$slots,"default",{},void 0,!0)])}const d=o(c,[["render",n],["__scopeId","data-v-112d8bca"]]);export{d as default};
